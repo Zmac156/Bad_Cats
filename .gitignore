@@ -1,0 +1,7 @@
+CLAUDE.md
+
+# Tables: ignore everything except Version1.vpx
+Tables/*
+!Tables/Bad Cats/
+Tables/Bad Cats/*
+!Tables/Bad Cats/Version1.vpx
